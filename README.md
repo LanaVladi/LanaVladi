@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Svetlana
-- 👀 I’m interested in books, photography.
+- 👀 I’m interested in yoga, books, photography.
 - 🌱 I’m currently learning front-end development at RSSchool.
 - 📫 How to reach me - Discord: LanaVladi#2712, Telegram: @lanainthesky
 
