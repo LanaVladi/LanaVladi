@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Svetlana
-- 👀 I’m interested in yoga, books, photography.
+- 👀 I’m interested in yoga and books.
 - 🌱 I’m currently learning front-end development at RSSchool.
-- 📫 How to reach me - Telegram: @lanainthesky, Discord: LanaVladi
+- 📫 How to reach me - Telegram: @lanainthesky
 
 <!---
 LanaVladi/LanaVladi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
